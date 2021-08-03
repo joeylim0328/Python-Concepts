@@ -10,7 +10,7 @@ A short pdf is added in this repo to give an introductory of Python.
 Website link: https://ilovecalculus0328.wixsite.com/tacocat
 
 # Screenshot
-### Interface of program
+### Interface of website
 ![screenshot1](/Screenshots/ss_1.PNG?raw=true)
 
 # Authors
