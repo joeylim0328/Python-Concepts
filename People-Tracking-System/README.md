@@ -6,10 +6,10 @@ Website link: https://ilovecalculus0328.wixsite.com/tacocat/people-tracking-syst
 # Screenshot
 ### Sample input & output
 1. When the python module is executed, a window which displays a paused video will pop out. Click and draw a rectangle to select the people you want to track. Press **'Enter' twice** after selecting the first person. Repeat this step to select the next person. After done selecting, press **'Enter' once** and press **'Q'** to exit the selecting process.
-![screenshot1](/Screenshots/ss_1.png?raw=true)
+![screenshot3](/Screenshots/ss_1.png?raw=true)
 
 2. The video will then run and the people selected will be tracked in the video.
-![screenshot2](/Screenshots/ss_2.png?raw=true)
+![screenshot4](/Screenshots/ss_2.png?raw=true)
 
 3. To termintate the program, press **'Esc'**, then **'X'** on the right top of the window.
 
