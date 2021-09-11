@@ -14,7 +14,7 @@ Website link: https://ilovecalculus0328.wixsite.com/tacocat
 ![screenshot1](/Screenshots/ss_1.PNG?raw=true)
 
 # Authors
-Joey Lim, Y.F.,Tan, T.C.,Chan, Ivan Lee, J.M.,Chua.
+Joey Lim, Y.F.,Tan, T.C.,Chan, I.K.Z,Lee, J.M.,Chua.
 
 # Others
 The website is built using Wix. This project is made for my `TPL 2141 Programming Language Concept` subject.
